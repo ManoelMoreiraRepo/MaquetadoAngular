@@ -1,5 +1,5 @@
 * {
-    background-color: #b8b9b9;
+    background: #b8b9b9;
 }
 
 h1 {
@@ -7,10 +7,10 @@ h1 {
     padding: 20px;
 }
 
-div {
-    text-align: left;
+.row {
+    background: #b8b9b9;
 }
 
-#container {
-    background-color: #b8b9b9;
+.container {
+    text-align: left;
 }

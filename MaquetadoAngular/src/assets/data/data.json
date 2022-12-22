@@ -1,0 +1,51 @@
+{
+    "nombre": "Manoel Moreira",
+    "titulo": "Full Stack Web Developer Jr.",
+    "ubicacion": "CABA, Argentina",
+    "fotoPerfil": "assets/img/fotoPerfilArgProg.jpeg",
+    "acercade": [{
+        "titulo": "Desarrollador web",
+        "texto": "Programador Front-End y Back-End con la experiencia de llevar a cabo proyectos de una forma organizada y eficiente."
+    }],
+    "experiencia": [{
+            "logo": "assets/img/camara.jpeg",
+            "titulo": "Grupo SIMA",
+            "tiempoInicio": "2014",
+            "tiempoFin": "Presente",
+            "texto": "Diseño y seguimiento de las tareas de implementacion de sistemas de Seguridad Eletronica",
+            "texto2": "Velar para que el proyecto se ejecute en el tiempo y presupuesto establecido."
+        },
+        {
+            "logo": "assets/img/camara.jpeg",
+            "titulo": "A&S Seguridad Eletronica",
+            "tiempoInicio": "2012",
+            "tiempoFin": "2013",
+            "texto": "Instalación y mantenimiento de sistemas de seguridad Eletronica.",
+            "texto2": "Coordinacion de equipos técnicos."
+        }
+    ],
+    "eduacion": [{
+            "tiempoInicio": "2014",
+            "tiempoFin": "2014",
+            "titulo": "Universidad Tecnologica Nacional (UTN)",
+            "texto": "Tecnico en Seguridad Eletronica",
+            "logo": ""
+        },
+
+        {
+            "tiempoInicio": "febrero",
+            "tiempoFin": "Marzo 2022",
+            "titulo": "Argentina Programa - #SéProgramar",
+            "texto": "Plan nacional de formación en programación.",
+            "logo": "https://argentinaprograma.inti.gob.ar/pluginfile.php/1/theme_moove/logo/1655937940/APLogo-20-20.png"
+        },
+        {
+            "tiempoInicio": "2022",
+            "tiempoFin": "Presente",
+            "titulo": "Argentina Programa - #YoProgramo",
+            "texto": "Certificado Programador Web Full-Stack Junior",
+            "logo": "https://argentinaprograma.inti.gob.ar/pluginfile.php/1/theme_moove/logo/1655937940/APLogo-20-20.png"
+        }
+
+    ]
+}
